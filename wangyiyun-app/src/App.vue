@@ -9,4 +9,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+.icon {
+  width: 0.5rem;
+  height: 0.5rem;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
 </style>
