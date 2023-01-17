@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>ItemMusic</h1>
     <itemMusicTop :playList="state.playList"></itemMusicTop>
   </div>
 </template>
